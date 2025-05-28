@@ -6,7 +6,7 @@
 
 📫 Contact us on sport at mbiraradio.com.
 
-🌱 Mbiraradio is an ai mbira music app in dev.
+🌱 Mbiraradio is in dev.
 
 
 <!--
