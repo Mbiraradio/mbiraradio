@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+🔭 This is Mbiraradio Sport.
+
+🔭 We do Sport for Wildlife Causes in Zambezi.
+
+📫 Contact us on sport at mbiraradio.com.
+
+🌱 Mbiraradio is a music app for traditional mbira music in Zimbabwe.
+
+
 <!--
 **Mbiraradio/mbiraradio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
