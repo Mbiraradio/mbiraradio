@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo there 👋
 
 🔭 This is Mbiraradio Sport.
 
