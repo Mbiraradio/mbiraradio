@@ -6,7 +6,7 @@
 
 📫 Contact us on sport at mbiraradio.com.
 
-🌱 Mbiraradio is a radio app for traditional mbira music in dev.
+🌱 Mbiraradio is an app for mbira music in dev.
 
 
 <!--
